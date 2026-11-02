@@ -1,0 +1,6 @@
+{
+  "name": "Akbar Media Group - Internet, Jaringan & CCTV Solutions",
+  "description": "Layanan penyedia Internet Broadband, Instalasi Jaringan LAN/Fiber Optic, dan Pasang CCTV Bergaransi Resmi dari Akbar Media Group.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
